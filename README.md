@@ -7,10 +7,12 @@ Involves all my leetcode question solutions
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nishiy033-web/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0705-design-hashset](https://github.com/nishiy033-web/LeetCode/tree/master/0705-design-hashset) |
 ## Hash Table
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nishiy033-web/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0705-design-hashset](https://github.com/nishiy033-web/LeetCode/tree/master/0705-design-hashset) |
 ## Two Pointers
 |  |
 | ------- |
@@ -40,4 +42,13 @@ Involves all my leetcode question solutions
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/nishiy033-web/LeetCode/tree/master/0155-min-stack) |
+| [0705-design-hashset](https://github.com/nishiy033-web/LeetCode/tree/master/0705-design-hashset) |
+## Linked List
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/nishiy033-web/LeetCode/tree/master/0705-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/nishiy033-web/LeetCode/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
