@@ -6,6 +6,7 @@ Involves all my leetcode question solutions
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/nishiy033-web/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nishiy033-web/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/nishiy033-web/LeetCode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nishiy033-web/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -18,6 +19,7 @@ Involves all my leetcode question solutions
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/nishiy033-web/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nishiy033-web/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/nishiy033-web/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/nishiy033-web/LeetCode/tree/master/0344-reverse-string) |
